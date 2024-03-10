@@ -1,0 +1,77 @@
+.termetryx{
+   color: orange;
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.tizryx{
+    color: grey;
+    font-size: 24px;
+    font-family: cursive;
+}
+
+.ryx{
+   color:orange;
+    font-size: 26px;
+    font-family: initial;
+    
+}
+.link{
+    text-align: right;
+    font-size: 25px;
+}
+body{
+    background-color: black;
+}
+.termetryx2{
+    color: orange;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+.za3ketryx{
+    text-align: left;
+    font-size: 26px;
+    color: white;
+    
+}
+
+h1{
+    text-decoration: underline;
+    color: orange;
+    
+}
+.fomryx{
+    font-size: 26px;
+    color: orange;
+
+}
+
+h2{
+    color: orange;
+}
+
+h3{
+    color: orange;
+}
+
+label{
+    font-size: 26px;
+     color: orange;
+    
+}
+
+.subscribe{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color: orange;
+}
+
+.prix1{
+    color: white;
+}
+
